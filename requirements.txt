@@ -1,0 +1,9 @@
+torch
+torchvision
+pyiqa
+openai-agents
+opencv-python
+inference
+supervision
+pyprojroot
+pydantic-settings
